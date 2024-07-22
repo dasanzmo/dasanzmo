@@ -28,6 +28,6 @@ Me destaco en la colaboración efectiva, trabajo en equipo, liderazgo y capacida
 | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 |---|
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dasanzmo&theme=transparent&hide_border=true&locale=es&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dasanzmo&theme=blueberry&hide_border=true&locale=es&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![](https://visitcount.itsvg.in/api?id=dasanzmo&label=&icon=8&pretty=false)](https://visitcount.itsvg.in)
